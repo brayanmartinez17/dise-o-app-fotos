@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi aplicacion</string>
+    <string name="saved_images">saved images</string>
+    <string name="edite_su_foto">edite su foto</string>
+    <string name="imgen_filtros">imgen filtros</string>
+    <string name="filter_1">Filter 1</string>
+    <string name="aplique_filtros">aplique filtros</string>
+
+</resources>
